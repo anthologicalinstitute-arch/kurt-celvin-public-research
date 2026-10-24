@@ -2,7 +2,7 @@
 
 🧠 Inquiry. Evidence. Responsible Innovation.
 
-Welcome to Kurt Celvin’s public research portfolio, exploring AI governance, quantitative modeling, computational experiments, and institutional design.
+Welcome to Kurt Celvin’s public research portfolio, exploring AI governance, quantitative modeling, computational experiments, and institutional design. 
 
 🎯 Research Projects
 
