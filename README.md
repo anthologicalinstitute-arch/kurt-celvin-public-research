@@ -2,76 +2,48 @@
 
 🧠 Inquiry. Evidence. Responsible Innovation.
 
-Welcome to the public research portfolio of Kurt Celvin, a research persona focused on artificial intelligence, quantitative modeling, institutional design, computational experimentation, and responsible technology governance.
+Welcome to Kurt Celvin’s public research portfolio, exploring AI governance, quantitative modeling, computational experiments, and institutional design.
 
-This repository provides a public space for research documentation, educational projects, reproducible demonstrations, and developing methodologies.
+🎯 Research Projects
 
-🎯 Research Areas
+🤖 "AI Governance & Institutional Accountability" (projects/ai-governance/)
 
-🤖 AI Governance & Institutional Accountability™
+Research into responsible AI, human oversight, institutional accountability, and evidence-based evaluation.
 
-Exploring human oversight, institutional responsibility, AI evaluation, risk controls, and accountable deployment of artificial intelligence systems.
+🧮 "Quantum Sims™" (projects/quantum-sims/)
 
-🧮 Quantum Sims™
+Computational simulation, mathematical modeling, reproducible experiments, and classical benchmarking.
 
-Developing computational experiments, simulation methods, and comparisons between quantum-inspired approaches, quantum simulation concepts, and classical computational baselines. Claims of quantum advantage require appropriate evidence.
+🐍 "Python + Institutional Design for the Online Learner™" (projects/python-institutional-design/)
 
-🐍 Python + Institutional Design for the Online Learner™
+Python-based educational research, quantitative analysis, and institutional modeling.
 
-Applying Python to educational research, institutional modeling, quantitative analysis, and reproducible computational learning.
+📊 "GPL™ — Public Portfolio Governance Experiment" (projects/gpl-public-portfolio-governance/)
 
-📊 GPL™ — Public Portfolio Governance Experiment
+Portfolio governance, model validation, risk analysis, and evidence-informed decision-making.
 
-Exploring portfolio governance, quantitative assessment, model validation, risk analysis, evidence quality, and human-controlled financial decision-making.
+🔎 Research Standards
 
-GPL research materials are experimental and educational. They are not individualized investment advice or instructions to execute financial transactions.
+- "Research Standards" (RESEARCH_STANDARDS.md)
+- "Research Methodology Template" (RESEARCH_TEMPLATE.md)
+- "Public Research Projects Index" (projects/README.md)
 
-🏛️ Institutional Research & Publication Standards™
+Research should document sources, methods, assumptions, limitations, validation status, and material AI assistance. Human review and accountability remain essential.
 
-Promoting transparent methods, clear assumptions, documented limitations, responsible AI disclosure, reproducibility, and corrections when research requires revision.
+🏛️ Institutional Alignment
 
-🔍 Research Integrity
-
-Research published here should distinguish among:
-
-- Documented facts: supported by identifiable evidence.
-- Calculated results: derived using stated inputs and methods.
-- Interpretations: reasoned analysis based on available evidence.
-- Proposals: ideas or frameworks requiring further evaluation.
-- Unresolved questions: matters for which evidence remains incomplete or inconclusive.
-
-Code, data, and results should include relevant documentation, dependencies, limitations, and reproducibility instructions where applicable.
-
-AI assistance may be used in research and development. Its role should be disclosed when material to the work, and human review remains essential.
-
-📂 Repository Scope
-
-This repository is intended for publicly releasable research, project documentation, educational examples, and demonstrations.
-
-Private financial records, credentials, confidential personal information, and unpublished material not approved for release do not belong here.
-
-Individual projects may have separate licenses, attribution requirements, or usage restrictions. Consult the relevant files before reusing material.
-
-🔗 Institutional Alignment
-
-This public research portfolio is associated with the broader research interests of the Anthological Institute for Research & Governance™, whose stated institutional tagline is:
+Anthological Institute for Research & Governance™
 
 Inquiry. Evidence. Human Responsibility.
 
-The institute's administrative repository is maintained separately and is private. Its private contents are not incorporated into or disclosed through this public repository.
+This is a public research portfolio. Institutional alignment does not imply accreditation, government endorsement, or independent validation of research claims.
 
-🌐 Research & Contact
+🌐 Contact & Research Identity
 
-- Research identity: Kurt Celvin
+- Researcher: Kurt Celvin
 - GitHub: "anthologicalinstitute-arch" (https://github.com/anthologicalinstitute-arch)
 - Institutional contact: "Anthological.institute@gmail.com" (mailto:Anthological.institute@gmail.com)
 
 © Copyright & Reuse
 
-© 2026 Kurt Celvin, for original material where this attribution accurately identifies the rights holder.
-
-Third-party materials remain subject to their respective owners' rights and licenses. A public repository does not automatically grant permission to reuse every item. Check individual project licenses and attribution notices before reuse.
-
----
-
-This repository documents an independent public research portfolio. Publication here does not constitute institutional accreditation, government endorsement, professional certification, or proof of quantum advantage or investment performance.
+© 2026 Kurt Celvin, where attribution accurately identifies the rights holder. Third-party materials remain subject to their respective rights and licenses. Check individual project terms before reuse.
