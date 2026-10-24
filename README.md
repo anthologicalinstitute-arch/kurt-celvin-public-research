@@ -1,17 +1,6 @@
 🎯 Research Projects
 
-🤖 "AI Governance & Institutional Accountability" (projects/ai-governance/README.md)
-
-Research into responsible AI, human oversight, institutional accountability, and evidence-based evaluation.
-
-🧮 "Quantum Sims™" (projects/quantum-sims/README.md)
-
-Computational simulation, mathematical modeling, reproducible experiments, and classical benchmarking.
-
-🐍 "Python + Institutional Design for the Online Learner™" (projects/python-institutional-design/README.md)
-
-Python-based educational research, quantitative analysis, and institutional modeling.
-
-📊 "GPL™ — Public Portfolio Governance Experiment" (projects/gpl-public-portfolio-governance/README.md)
-
-Portfolio governance, model validation, risk analysis, and evidence-informed decision-making.
+- 🤖 "AI Governance & Institutional Accountability" (https://github.com/anthologicalinstitute-arch/kurt-celvin-public-research/tree/main/projects/ai-governance)
+- 🧮 "Quantum Sims™" (https://github.com/anthologicalinstitute-arch/kurt-celvin-public-research/tree/main/projects/quantum-sims)
+- 🐍 "Python + Institutional Design for the Online Learner™" (https://github.com/anthologicalinstitute-arch/kurt-celvin-public-research/tree/main/projects/python-institutional-design)
+- 📊 "GPL™ — Public Portfolio Governance Experiment" (https://github.com/anthologicalinstitute-arch/kurt-celvin-public-research/tree/main/projects/gpl-public-portfolio-governance)
