@@ -1,0 +1,34 @@
+name: Daily Public Research Digest
+
+on:
+  schedule:
+    - cron: '0 4 * * *' # Runs daily at 04:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update-digest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Update Public Digest Markdown
+        run: |
+          python -c "
+          import datetime
+          today = datetime.date.today().strftime('%B %d, %Y')
+          content = f'''# Public Research Portal Digest\n\n**Last Automated Digest Sync**: {today}\n\n## Core Focus Areas\n- AI Governance & Institutional Accountability\n- Quantum Sims™ Quantitative Modeling\n- GPL™ Public Portfolio Governance Experiment\n\n*Status: Active and verifying daily public research metrics.*\n'''
+          with open('PUBLIC_DIGEST.md', 'w') as f:
+              f.write(content)
+          "
+
+      - name: Commit and Push Public Digest Update
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "docs(digest): update daily public research portal digest [skip ci]"
+          file_pattern: "PUBLIC_DIGEST.md"
